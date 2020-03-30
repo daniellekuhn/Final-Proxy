@@ -1,14 +1,14 @@
-#notreviewcomponent{
+#notreviewcomponent {
   display: none;
 }
 
-body{
+body {
   background-color: #e5e5e5;
   margin: 0;
   padding: 0;
 }
 
-.logo{
+.logo {
   height: 40px;
   margin-top: 20px;
 }
@@ -18,26 +18,25 @@ body{
   z-index: -1;
 }
 
-.banner{
+.banner {
   background-color: white;
   height: 152px;
   width: 1150px;
   margin: 0 auto;
 }
 
-
-.ad{
+.ad {
   text-align: center;
-  background: -moz-linear-gradient(left, #F2F2F2 0%, #e5e5e5 100%);
+  background: -moz-linear-gradient(left, #f2f2f2 0%, #e5e5e5 100%);
   background: -webkit-linear-gradient(left, #f2f2f2 0%, #e5e5e5 100%);
   background: linear-gradient(to right, #f2f2f2 0%, #e5e5e5 100%);
   height: auto;
   vertical-align: middle;
   max-width: 100% !important;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
-.uppernavtext{
+.uppernavtext {
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
   color: #5b5d5b;
@@ -46,24 +45,24 @@ body{
   letter-spacing: 0.8px;
 }
 
-.left{
+.left {
   float: left;
 }
 
-.right{
+.right {
   float: right;
   margin-right: 10px;
 }
 
-.text{
+.text {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.bold{
+.bold {
   font-weight: bold;
 }
 
-.login{
+.login {
   margin-top: 4px;
   color: #787878;
   font-family: Arial, Helvetica, sans-serif;
@@ -71,54 +70,54 @@ body{
   text-decoration: underline;
 }
 
-.link:hover{
+.link:hover {
   cursor: pointer;
 }
 
-.myZone{
+.myZone {
   margin-top: 4px;
   font-weight: bold;
   font-size: 12px;
-  font-family: Arial, Helvetica, sans-serif
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-.search{
+.search {
   width: 300px;
   height: 30px;
   margin-left: 5px;
 }
 
-.s11{
+.s11 {
   font-size: 11px;
 }
 
-.underline{
+.underline {
   text-decoration: underline;
 }
 
-.pad5{
+.pad5 {
   padding-top: 10px;
 }
 
-.grid-1{
+.grid-1 {
   float: left;
   display: block;
   padding-right: 1.042%;
   position: relative;
 }
 
-.grid-2{
+.grid-2 {
   margin-top: 20px;
   float: left;
   display: block;
   position: relative;
 }
 
-.wheelimage{
+.wheelimage {
   height: 450px;
 }
 
-.block{
+.block {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   font-size: 15px;
@@ -131,7 +130,7 @@ body{
   width: 8%;
 }
 
-.bar{
+.bar {
   background-color: #f2f2f2;
   padding-top: 8px;
   padding-bottom: 8px;
@@ -141,15 +140,15 @@ body{
   display: block;
 }
 
-.delivery{
-  background-color: #F26100;
+.delivery {
+  background-color: #f26100;
   margin: 0 auto;
   height: 58px;
   width: 1150px;
   margin-bottom: 25px;
 }
 
-.deliverytext{
+.deliverytext {
   text-align: center;
   margin-top: 15px;
   padding-top: 15px;
@@ -158,7 +157,7 @@ body{
   font-style: italic;
 }
 
-.ship{
+.ship {
   margin-left: 40px;
   padding: 0;
   padding-top: -10px;
@@ -167,7 +166,7 @@ body{
   float: left;
 }
 
-.mainarea{
+.mainarea {
   background-color: white;
   height: 600px;
   width: 1150px;
@@ -176,31 +175,31 @@ body{
   margin-bottom: 30px;
 }
 
-.breadcrumbs{
+.breadcrumbs {
   margin-top: 10px;
   padding-top: 10px;
   padding-left: 5px;
 }
 
-.breadcrumb{
+.breadcrumb {
   margin-left: 5px;
   margin-right: 5px;
   font-size: 12px;
 }
 
-.orange{
+.orange {
   color: #f26100;
 }
 
-.gray{
+.gray {
   color: gray;
 }
 
-.title{
+.title {
   padding-left: 20px;
 }
 
-.image{
+.image {
   margin-left: 40px;
   height: 450px;
   width: 400px;
@@ -210,20 +209,20 @@ body{
   align-content: center;
 }
 
-.padleft{
-  padding-left:10px;
+.padleft {
+  padding-left: 10px;
 }
 
-.addvehicle{
+.addvehicle {
   /* float: auto; */
-  padding-left:10px;
-  /* margin-left: 500px; */
+  padding-left: 10px;
+  /* margin-left: 500px; comment */
   /* position: relative; */
   display: block;
   padding-bottom: 10px;
 }
 
-.part{
+.part {
   float: auto;
   margin-top: 5px;
   clear: left, auto;
@@ -232,29 +231,29 @@ body{
   font-size: 14px;
 }
 
-.light{
+.light {
   font-weight: normal;
 }
 
-.star{
+.star {
   height: 258px;
   width: 400px;
-  margin-left:455px;
+  margin-left: 455px;
   margin-top: 10px;
 }
 
-.checkout{
+.checkout {
   height: 332px;
   width: 250px;
   float: right;
   margin-right: 30px;
 }
 
-.checkoutarea{
+.checkoutarea {
   float: right;
 }
 
-.related{
+.related {
   background-color: white;
   height: 227px;
   width: 1150px;
@@ -263,7 +262,7 @@ body{
   margin-bottom: 20px;
 }
 
-#tabs{
+#tabs {
   background-color: white;
   width: 1150px;
   margin-bottom: 200px;
@@ -271,12 +270,12 @@ body{
   position: relative;
 }
 
-.details{
+.details {
   padding-left: 50px;
   font-size: 14px;
 }
 
-#core{
+#core {
   background-color: white;
   height: 227px;
   width: 1150px;
@@ -286,7 +285,7 @@ body{
   margin-top: 20px;
 }
 
-.corebox{
+.corebox {
   margin: 30px;
   margin-left: 0;
   float: left;
@@ -298,8 +297,7 @@ body{
   border-right: solid lightgray 1px;
 }
 
-
-.coreboxleft{
+.coreboxleft {
   margin: 30px;
   margin-left: 20;
   float: left;
@@ -311,7 +309,7 @@ body{
   border-right: solid lightgray 1px;
 }
 
-.coreboxborderless{
+.coreboxborderless {
   margin: 30px;
   float: left;
   display: block;
@@ -319,58 +317,58 @@ body{
   align-content: center;
 }
 
-.descriptimage{
+.descriptimage {
   height: 50px;
   width: 50px;
   border: solid black 1px;
 }
 
-.labeltext{
+.labeltext {
   font-size: 16px;
   font-weight: bold;
   margin-top: 5px;
   margin-bottom: 15px;
 }
 
-.descripttext{
+.descripttext {
   font-size: 14px;
   color: gray;
 }
 
-.underline{
+.underline {
   text-decoration: underline;
 }
 
-.height50{
+.height50 {
   height: 50px;
 }
 
-#bottom{
+#bottom {
   width: 1150px;
   margin: 0 auto;
   position: relative;
 }
 
-.bottomimage{
+.bottomimage {
   width: 100%;
 }
 
 /* julian css */
-.checkout{
+.checkout {
   height: 300px;
   width: 200px;
   background-color: #f2f2f0;
   padding: 10px;
   padding-top: 20px;
 }
-.pricetext{
+.pricetext {
   padding-top: 20px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: bold;
   padding-left: 30px;
 }
-.pricecost{
+.pricecost {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   /* font-weight: bold; */
@@ -378,7 +376,7 @@ body{
   padding-left: 60px;
   align-self: right;
 }
-.addToCart{
+.addToCart {
   padding: 8px;
   width: 160px;
   margin-left: 10px;
@@ -386,8 +384,7 @@ body{
   background-color: #f56607;
   border-radius: 5px;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.9);
-  box-shadow:
-    0 1px 0 rgba(255, 255, 255, 0.25),
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.25),
     0 1px 0 rgba(255, 255, 255, 0.25) inset,
     0 0 0 rgba(143, 143, 143, 0.5) inset,
     0 1.25rem 0 rgba(255, 255, 255, 0.08) inset,
@@ -397,13 +394,13 @@ body{
   margin-top: 15px;
   margin-bottom: 20px;
 }
-.addText{
+.addText {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: bold;
   color: white;
 }
-.arrow{
+.arrow {
   width: 0;
   height: 0;
   border-left: 5px solid white;
@@ -415,7 +412,7 @@ body{
   margin-top: 4px;
   margin-right: 5px;
 }
-.earnRewards{
+.earnRewards {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   text-align: center;
@@ -424,42 +421,42 @@ body{
   border-bottom: solid 1px lightgray;
   line-height: 1.5;
 }
-.orange{
- color: #f1731f;
+.orange {
+  color: #f1731f;
 }
-.link:hover{
+.link:hover {
   cursor: pointer;
 }
-.linkunderline:hover{
+.linkunderline:hover {
   text-decoration: underline;
 }
-.hotDeals{
+.hotDeals {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   color: slategray;
   padding-bottom: 10px;
 }
-.arrowdown{
+.arrowdown {
   width: 0;
   height: 0;
   border-left: 5px solid transparent;
   border-bottom: 5px solid transparent;
-  border-top: 5px solid slategray;;
+  border-top: 5px solid slategray;
   border-right: 5px solid transparent;
   float: right;
   display: block;
   margin-top: 4px;
   margin-right: 25px;
 }
-.freeshipping{
+.freeshipping {
   padding-left: 30px;
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   color: slategray;
 }
-.shippingtext{
+.shippingtext {
   padding-left: 30px;
   padding-top: 5px;
   font-family: Arial, Helvetica, sans-serif;
@@ -467,18 +464,18 @@ body{
   color: slategray;
   line-height: 1.8;
 }
-.shippingimage{
+.shippingimage {
   height: 25px;
   float: left;
 }
-.checkimg{
+.checkimg {
   height: 20px;
 }
-.inCart{
+.inCart {
   margin-top: 10px;
   margin-left: 30px;
 }
-.inyourcart{
+.inyourcart {
   font-family: Arial, Helvetica, sans-serif;
   color: #f1731f;
   font-weight: bold;
@@ -486,34 +483,33 @@ body{
 }
 
 /* david css */
-.background-render{
-  width: 100%; 
+.background-render {
+  width: 100%;
   height: 100%;
   position: absolute;
   background-color: rgba(255, 255, 255, 0.6);
   top: 0;
   left: 0;
 }
-.inside-modal{
-  display: flex; 
-  left:5px;
-  flex-direction: row; 
-  justify-content: space-between; 
-  width: 760px; 
-  height: 360px; 
+.inside-modal {
+  display: flex;
+  left: 5px;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 760px;
+  height: 360px;
   background-color: white;
-  margin-left: 5px;   
-  
+  margin-left: 5px;
 }
-.middle-modal{
-  background-image: url('http://autozone.com/images/dialog/dialog-border-pattern.png');
+.middle-modal {
+  background-image: url("http://autozone.com/images/dialog/dialog-border-pattern.png");
   position: absolute;
-  display:flex;
-  width:770px;
-  height:370px;
-  align-items: center;   
+  display: flex;
+  width: 770px;
+  height: 370px;
+  align-items: center;
 }
-.outer-modal{
+.outer-modal {
   background-color: lightgray;
   display: flex;
   align-items: center;
@@ -523,55 +519,56 @@ body{
   position: absolute;
   top: 40%;
   left: 50%;
-  transform: translate(-50%,-50%);
-  
+  transform: translate(-50%, -50%);
 }
-.modal-scroll{
+.modal-scroll {
   display: flex;
   flex-direction: column;
   overflow: scroll;
   padding: 5px;
   width: 80px;
-  text-align:center;
+  text-align: center;
   border-right: dotted 1px black;
 }
-.modal-top{
+.modal-top {
   position: absolute;
   top: -25px;
-  display:flex;
+  display: flex;
   flex-direction: column;
-  background: url("http://autozone.com/images/dialog/dialog-header-bg.png") bottom right no-repeat;
+  background: url("http://autozone.com/images/dialog/dialog-header-bg.png")
+    bottom right no-repeat;
   width: 795px;
-  height: 35px;  
+  height: 35px;
 }
-.modal-header-text{
-  position:flex;
-  top:20px;
-  left:10px;
+.modal-header-text {
+  position: flex;
+  top: 20px;
+  left: 10px;
   text-transform: uppercase;
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
-  color:white;
+  color: white;
   padding: 6px 0 0 12px;
   font-weight: bold;
 }
-.modal-button{
+.modal-button {
   position: absolute;
   right: 10px;
   top: 10px;
-  background: url("http://autozone.com/images/dialog/dialog-header-bg.png") bottom right no-repeat;
+  background: url("http://autozone.com/images/dialog/dialog-header-bg.png")
+    bottom right no-repeat;
   border: none;
   color: white;
   font-size: 10px;
-  font-family: Arial, Helvetica, sans-serif;   
+  font-family: Arial, Helvetica, sans-serif;
 }
-.modal-pics{
+.modal-pics {
   height: 40px;
   width: 40px;
   border: 1px solid black;
   padding: 2px;
 }
-.modal-main{
+.modal-main {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -584,106 +581,100 @@ body{
   height: 75px;
   align-items: center;
   overflow-x: scroll;
-  margin:0;
+  margin: 0;
   padding: 0;
-  
-  }
-  .flex-box img{
-    height: 40px;
-    width: 40px;
-    padding:2px;
-    border: 1px solid black; 
-  }
-  .middlebuttons{
-    text-align:center; 
-  }
-  .viewlarger{
-    color:white;
-    background-color: darkslategrey;
-  }
-  .vehiclespecific{
-    border-color: orange;
-  }
-  .middlespan{
-    padding:41px;
-  }
-  .flex-box li{
-    list-style-type: none;
-    display: inline-block;
-    white-space: nowrap;
-    
-  }
-  .main{
-    width: 312px;
-    height: 300px;
-    
-  }
-  .parentpic{
-    text-align: center;
-    object-fit: contain;
-    
-  }
-  .childpics{
-    display: flex;
-    align-items:center;
-    flex-direction: column;
-    
-  }
-  .arrow-right{
-    transform: rotate(-45deg);
-    -webkit-transform: rotate(-45deg);
-    border: solid gray;
-    border-width: 0 4px 4px 0;
-    display: inline-block;
-    padding: 3px;
-    height:4px;
-    width: 4px;
-  }
-  .arrow-button{
-    border: none;
-    outline:none;
-    cursor: pointer;
-    height:10px;
-    margin-bottom: 10px;
-    
-  }
-  .arrow-left{
-    transform: rotate(135deg);
-    -webkit-transform: rotate(135deg);
-    border: solid gray;
-    border-width: 0 4px 4px 0;
-    display: inline-block;
-    padding: 3px;
-    height:4px;
-    width: 4px;
-  }
+}
+.flex-box img {
+  height: 40px;
+  width: 40px;
+  padding: 2px;
+  border: 1px solid black;
+}
+.middlebuttons {
+  text-align: center;
+}
+.viewlarger {
+  color: white;
+  background-color: darkslategrey;
+}
+.vehiclespecific {
+  border-color: orange;
+}
+.middlespan {
+  padding: 41px;
+}
+.flex-box li {
+  list-style-type: none;
+  display: inline-block;
+  white-space: nowrap;
+}
+.main {
+  width: 312px;
+  height: 300px;
+}
+.parentpic {
+  text-align: center;
+  object-fit: contain;
+}
+.childpics {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.arrow-right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  border: solid gray;
+  border-width: 0 4px 4px 0;
+  display: inline-block;
+  padding: 3px;
+  height: 4px;
+  width: 4px;
+}
+.arrow-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  height: 10px;
+  margin-bottom: 10px;
+}
+.arrow-left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+  border: solid gray;
+  border-width: 0 4px 4px 0;
+  display: inline-block;
+  padding: 3px;
+  height: 4px;
+  width: 4px;
+}
 
 /* danielle css */
 .dropdowntext {
-	z-index: 1001;
-        width: 298px;
+  z-index: 1001;
+  width: 298px;
 }
 
 .searchicon {
-	top: 40px;
-	left: 260px;
+  top: 40px;
+  left: 260px;
 }
 
 .innerContainer {
-	background-color: white;
+  background-color: white;
 }
 
-#nav{
+#nav {
   background-color: white;
 }
 
 ._2k0ucJrjG3-b7vgyOqWpR3 {
-	background-color: white;
+  background-color: white;
 }
 
 .yXE5DW_E9eyvw_RkzgOqF {
-	z-index: 1001;
-        width: 298px;
+  z-index: 1001;
+  width: 298px;
 }
 
 /* matt css */
@@ -700,7 +691,7 @@ body{
   background-image: url("images/orange.png");
   background-repeat: no-repeat;
   background-position-x: 18px;
- /* background-position-y: 7px; */
+  /* background-position-y: 7px; */
   font-size: 10px;
   padding-top: 15px;
   /* padding-left: 35px; */
@@ -723,7 +714,7 @@ body{
   padding-top: 30px;
   /* display: inline; */
   margin: 0, auto;
-  padding-left: 58px
+  padding-left: 58px;
 }
 .recommended-item-container:hover {
   cursor: pointer;
@@ -765,7 +756,7 @@ body{
   left: -90px;
   width: 310px !important;
   max-width: 310px !important;
-  box-shadow: 0 0 4px 0 rgba(0,0,0,0.5);
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.5);
 }
 .bs-popover-bottom {
   margin-top: 70px !important;
@@ -775,9 +766,9 @@ body{
   color: #666666;
   font-size: 12px !important;
   font-weight: normal;
-  border-bottom: 1px dotted #B2B4B3 !important;
+  border-bottom: 1px dotted #b2b4b3 !important;
   margin: 5px 5px 10px 5px;
-  background-color: #F7F7F7;
+  background-color: #f7f7f7;
   height: 105px;
   padding: 8px 12px;
   font-family: Helvetica Neue, Arial, sans-serif;
@@ -785,7 +776,7 @@ body{
 /* Popover Body */
 .popover-body {
   font-family: Helvetica Neue, Arial, sans-serif;
-  color: #231F20;
+  color: #231f20;
   font-size: 12px;
   line-height: 1.7;
   padding: 4px !important;
@@ -806,25 +797,25 @@ body{
   margin-right: 3px !important;
 }
 .changeStore {
-  background-color: #F37F00;
+  background-color: #f37f00;
   color: #fff;
   font-weight: normal;
   text-decoration: underline;
-  font-family: “Helvetica Neue”,Helvetica,Arial,sans-serif;
+  font-family: “Helvetica Neue”, Helvetica, Arial, sans-serif;
   font-size: 12px;
   padding: 8px 11px 6px 4px !important;
 }
 .storeSpecials {
-  background-color: #F37F00;
+  background-color: #f37f00;
   color: #fff;
   font-weight: normal;
   text-decoration: underline;
-  font-family: “Helvetica Neue”,Helvetica,Arial,sans-serif;
+  font-family: “Helvetica Neue”, Helvetica, Arial, sans-serif;
   font-size: 12px;
   padding: 8px 99px 6px 4px !important;
 }
 .todaysHours {
-  color: #F26100;
+  color: #f26100;
   float: right;
 }
 .header {
@@ -834,7 +825,7 @@ body{
   font-size: 14px;
   display: block;
   margin-bottom: 10px;
-  color: #231F20;
+  color: #231f20;
   font-weight: bold;
 }
 .address {
@@ -846,7 +837,7 @@ body{
   position: absolute;
   right: 15px;
   top: 40px;
-  color: #F26100;
+  color: #f26100;
   text-decoration: underline;
 }
 .closeBox {
