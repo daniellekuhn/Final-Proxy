@@ -30,7 +30,10 @@ export default class Main extends Component {
         <div>
           <div id="Image" className="image"></div>
           <div>
-            <img className="padleft addvehicle" src="/images/image.png" />
+            <img
+              className="padleft addvehicle"
+              src="http://arrtozone.us-east-2.elasticbeanstalk.com/images/image.png"
+            />
           </div>
           <div id="checkout"></div>
           <div>

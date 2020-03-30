@@ -13,7 +13,10 @@ export default class Fast extends Component {
     return (
       <div className="delivery">
         <div className="deliverytext text">
-          <img className="ship" src="../images/pirateshipthing.png" />
+          <img
+            className="ship"
+            src="http://arrtozone.us-east-2.elasticbeanstalk.com/images/pirateshipthing.png"
+          />
           Need it Fast? Free NEXT DAY DELIVERY on Eligible Items. On orders over
           $35*.
           <span className="italic details link underline">See Details</span>
