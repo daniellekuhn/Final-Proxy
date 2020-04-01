@@ -27,9 +27,9 @@
 Recreated AutoZone's website with a pirate theme using serive-oriented architecture
 
 ## Technologies 
-  - Front-end: HTML, CSS, ReactJS, jQuery, Bootstrap
-  - Back-end: NodeJS, Express, axios, MySql, 
-  - Deployment: Docker, AWS Elastic Beanstalk, Google Cloud Provider
+  - Front-end: HTML | CSS | ReactJS | jQuery | Bootstrap
+  - Back-end: NodeJS | Express | axios | MySql
+  - Deployment: Docker | AWS Elastic Beanstalk | Google Cloud Provider
   
 
  
