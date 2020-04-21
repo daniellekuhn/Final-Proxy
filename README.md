@@ -17,10 +17,10 @@
 
 ## Contributors
   - [Danielle](https://github.com/daniellekuhn) - Navigation Bar (w/ Search)
-  - [David] - Images & Carousel
+  - [David] (https://github.com/davehastings) - Images & Carousel
   - [Matt] - Related Images
   - [Julian] - Checkout
-  - [Alex] - Features & Benefits
+  - [Alex] (https://github.com/jandrog) - Features & Benefits
   - [Nick] - Reviews
   
 ## About
