@@ -18,10 +18,10 @@
 ## Contributors
   - [Danielle](https://github.com/daniellekuhn) - Navigation Bar (w/ Search)
   - [David](https://github.com/davehastings) - Images & Carousel
-  - [Matt] - Related Images
-  - [Julian] - Checkout
+  - [Matt](https://github.com/comatthewb) - Related Images
+  - [Julian](https://github.com/jmccra) - Checkout
   - [Alex](https://github.com/jandrog) - Features & Benefits
-  - [Nick] - Reviews
+  - [Nick](https://github.com/nlingrel) - Reviews
   
 ## About
 Recreated AutoZone's website with a pirate theme using serive-oriented architecture
