@@ -16,7 +16,7 @@
 ![ArrToZone](https://github.com/daniellekuhn/ArrToZoneGIF/blob/master/ArrToZone.gif)
 
 ## Contributors
-  - [Danielle](https://github.com/daniellekuhn) - Navigation Bar (w/ Search)
+  - [Danielle](https://github.com/daniellekuhn) - Navigation Bar 
   - [David](https://github.com/davehastings) - Images & Carousel
   - [Matt](https://github.com/comatthewb) - Related Images
   - [Julian](https://github.com/jmccra) - Checkout
