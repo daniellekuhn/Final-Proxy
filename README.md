@@ -13,7 +13,7 @@ Our team of developers recreated AutoZone's website with a pirate theme using se
   - [Contributors](#contributors)
 
 ## Demo
-![ArrToZone](https://github.com/daniellekuhn/ArrToZoneGIF/blob/master/ArrToZone.gif)
+![ArrToZone](https://github.com/daniellekuhn/ArrToZoneGIF/blob/master/ArrToZone.gif)</br>
 We implemented the following user stories in our AutoZone replica website:
   - As a user, I want to be able to get an overview of AutoZone's website when I visit the site
   - As a user, I want to be able to search for products and see a list of products related to my search
