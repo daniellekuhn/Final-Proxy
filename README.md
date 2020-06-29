@@ -52,7 +52,7 @@ We implemented the following user stories in our AutoZone replica website:
 
 ## Contributors
 Each developer built a micro-service component:
-  - [Danielle Kuhn](https://github.com/daniellekuhn) - Navigation Bar 
+  - [Danielle Kuhn](https://github.com/daniellekuhn) - Navigation Bar (including search bar)
   - [David Hastings](https://github.com/davehastings) - Images & Carousel
   - [Matt Co](https://github.com/comatthewb) - Related Images
   - [Julian McGrary](https://github.com/jmccra) - Checkout
